@@ -162,7 +162,8 @@
       "extensions/ext-zai.json",
       "extensions/ext-qianfan.json",
       "extensions/ext-modelstudio.json",
-      "extensions/ext-minimax.json"
+      "extensions/ext-minimax.json",
+      "extensions/zalouser-setup.json"
     ],
     "plugins": [
       "plugins/provider-auth-mode.json",
